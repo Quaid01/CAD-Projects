@@ -11,4 +11,4 @@ I wanted to own my models which is why I opted to use open-source software inste
 
 ## Format
 
-The folders each contain a unique project, with multiple versions or designs as made. Some of the initial projects are simple, as they are my first experiences with a certain concept/modeling aspect. All of these projects will have screenshots in the event one is unable to open the file yet they wish to view the model. Each project will also contain a markup file to detail the purposes of the project and what is going on.
+The folders each contain a unique project, with multiple versions or designs as made. Some of the initial projects are simple, as they are my first experiences with a certain concept/modeling aspect. All of these projects will have screenshots in the event one is unable to open the file yet they wish to view the model. Each project will also contain a markdown file to detail the purposes of the project and what is going on.
